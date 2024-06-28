@@ -1,0 +1,12 @@
+setuptools
+wheel
+twine
+build
+streamlit==1.36.0
+pandas
+numpy
+matplotlib
+requests
+pytz
+deep-translator
+plotly.express
