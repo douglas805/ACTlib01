@@ -1,4 +1,4 @@
-limport streamlit as st
+import streamlit as st
 from ACTlib01 import *
 from PIL import Image # Lib para carregar imagem 
 
