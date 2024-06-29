@@ -1,4 +1,4 @@
-import streamlit as st
+limport streamlit as st
 from ACTlib01 import *
 from PIL import Image # Lib para carregar imagem 
 
@@ -23,7 +23,7 @@ def main():
     with coluna0[1]:
         MKD("MEU 1º APLICATIVO WEB PYTHON", alinhamento = "centro", tamanho_fonte = 44, cor_fonte = "azul")
     with coluna0[2]:
-        Escrever("")
+        Escrever("sei la")
 
     Divisor()
     
